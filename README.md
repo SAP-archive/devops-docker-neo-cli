@@ -23,6 +23,8 @@ This image is published to Docker Hub and can be pulled via the command
 docker pull ppiper/neo-cli
 ```
 
+**Note:** This image is no longer published to GitHub Container Registry (ghcr.io). Only Docker Hub is supported.
+
 ## Build
 
 To build this image locally, open a terminal in the directory of the Dockerfile an run
