@@ -25,6 +25,8 @@ This image is intended to be used in Jenkins pipelines.
 
 ## Download
 
+⚠️ **Important Notice:** The GitHub Container Registry (ghcr.io) for this project is no longer being updated. Please use the Docker Hub registry instead: `docker pull ppiper/neo-cli`
+
 This image is published to Docker Hub and can be pulled via the command
 
 ```
