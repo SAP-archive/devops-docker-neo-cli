@@ -1,3 +1,11 @@
+## Deprecation Notice
+
+This public repository is no longer maintained.
+
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+---
+
 # Neo Tools Command Line Interface (CLI)
 
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP/devops-docker-neo-cli)](https://api.reuse.software/info/github.com/SAP/devops-docker-neo-cli)
